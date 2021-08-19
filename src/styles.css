@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  background-color: lightgreen;
+  display: flex;
+  justify-content: center;
+  margin-top: 80px;
+}
+
+.circle {
+  position: absolute;
+  /* use absolute to know where the circle is at all times */
+  height: 100px;
+  width: 100px;
+  background-color: blueviolet;
+  border-radius: 50px;
+}

@@ -1,2 +1,2 @@
-# movingCircle
+# jsClasses
 Created with CodeSandbox
